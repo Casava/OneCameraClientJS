@@ -1,0 +1,25 @@
+{
+  "name": "OneCameraClientJS",
+  "version": "1.0.0",
+  "description": "OneCamera Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Casava/OneCameraClientJS.git"
+  },
+  "keywords": [
+    "Camera"
+  ],
+  "author": "Sawyer LIN",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Casava/OneCameraClientJS/issues"
+  },
+  "dependencies": {
+    "backbone": "~1.1.2",
+    "jquery": "~2.1.1"
+  }
+}
